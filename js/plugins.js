@@ -25,7 +25,9 @@
         factory(jQuery);
     }
 
-}(function($) {
+},
+
+(function($) {
     'use strict';
     var Slick = window.Slick || {};
 
